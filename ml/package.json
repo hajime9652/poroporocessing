@@ -6,10 +6,12 @@
     "build": "vite build"
   },
   "dependencies": {
+    "@types/p5": "^0.9.1",
+    "ml5": "^0.6.0",
     "vue": "^3.0.4"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.13",
-    "@vue/compiler-sfc": "^3.0.4"
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
   }
 }
